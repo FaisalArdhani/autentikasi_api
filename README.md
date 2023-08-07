@@ -5,6 +5,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4.x-orange.svg)
 ![JWT](https://img.shields.io/badge/JSON%20Web%20Token-8.x-red.svg)
 
+
 Welcome to the Awesome Authentication API repository! This project is a simple and secure authentication API built with Node.js, Express.js, MongoDB, and JWT (JSON Web Token). It provides endpoints for user registration, login, token refresh, and protected routes.
 
 ## Features
