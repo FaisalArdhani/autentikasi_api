@@ -1,6 +1,6 @@
 # Authentication API with JWT and MongoDB
 
-![Node.js](https://nodejs.org/en)
+![Node.js](https://img.shields.io/badge/Node.js-18.x-green.svg)
 ![Express.js](https://img.shields.io/badge/Express.js-4.x-blue.svg)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4.x-orange.svg)
 ![JWT](https://img.shields.io/badge/JSON%20Web%20Token-8.x-red.svg)
