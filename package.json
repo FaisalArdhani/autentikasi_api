@@ -1,0 +1,20 @@
+{
+  "name": "autentikasi_api",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "API autentikasi ",
+  "main": "server.js",
+  "scripts": {
+    "serve": "nodemon server.js"
+  },
+  "author": "Faisal Ardhani",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.1",
+    "mongoose": "^7.4.2"
+  }
+}
